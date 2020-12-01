@@ -1,4 +1,4 @@
-## Home
+## Home 👨‍💻
 
 [WhatsApp Status](https://vaneulen.github.io/Status/)
 
